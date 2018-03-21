@@ -8,7 +8,7 @@
 
 **如果想打包成文件的话：**
 
-打包命令   pyinstaller -i flow.ico -F -w flow2.0.py
+打包命令   pyinstaller -i flow.ico -F -w Traffic_Assistant2.0.py
 
 命令中不要包含中文字符，否则会报错
 
