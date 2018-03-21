@@ -18,8 +18,8 @@
 
 登录界面：
 
-![login](.\screenshot\login.png)
+![login](./screenshot/login.png)
 
 主界面：
 
-![homepage](.\screenshot\homepage.png)
+![homepage](./screenshot/homepage.png)
